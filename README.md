@@ -1,7 +1,7 @@
 <h1 align="center">Hey folks, I'm Shanks!</h1>
 <h3 align="center">A Software Engineer working at Collins Aerospace - Canada.</h3>
 
-- 👨‍💻 All of my projects are available at [shanks.gg](shanks.gg)
+- 👨‍💻 All of my projects are available at https://shanks.gg/
 
 - 📫 How to reach me **shashankzv@gmail.com**
 
