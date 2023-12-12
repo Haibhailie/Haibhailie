@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shashankzv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=15SLMl7QZvrVPazjhLYi2Y_Op5I660n0c](https://drive.google.com/uc?export=download&id=15SLMl7QZvrVPazjhLYi2Y_Op5I660n0c)
+- 📄 Know about my experiences on my [Resume](https://drive.google.com/file/d/1_VJSqq7K_WyUaNNgGD6MVcSIZ_1HzIb3/view?usp=sharing)
 
 - ⚡ Fun fact **I have 2 bunnies. Mocha and Cookie!**
 
